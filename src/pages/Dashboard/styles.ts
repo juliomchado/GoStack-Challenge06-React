@@ -79,6 +79,10 @@ export const TableContainer = styled.section`
         color: #12a454;
       }
 
+      &.income:active {
+        border-bottom: #ff872c;
+      }
+
       &.outcome {
         color: #e83f5b;
       }
