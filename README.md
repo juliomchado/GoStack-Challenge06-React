@@ -1,4 +1,4 @@
-# GoStack-Challenge06-React
+# GoStack-Challenge06-GoFinances
 
 <img width="1440" alt="Início" src="https://user-images.githubusercontent.com/56945282/86418260-7c692200-bcc7-11ea-8813-9ca2be14d3ba.png">
 
